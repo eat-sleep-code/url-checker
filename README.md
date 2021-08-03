@@ -2,13 +2,21 @@
 
 This Python3 script that will intake a text list of URLs and check their response status.
 
+## Prerequisites
 
-Simply...
+- Python3
+- The requests library.   This can be installed using `pip3 install requests`
+
+
+## Getting started
 
 - Create a text file named **urls.txt** that contains one URL per line.   
 - Place this file in the same directory as the **check.py** Python script.
 - Run the following command to make the Python script executable.:  `sudo chmod +x check.py`
 - Run the following command to begin checking the list of URLs: `./check.py`
+
+
+## Understanding the output
 
 After the script completes a series of **.log** files may be created.
 
