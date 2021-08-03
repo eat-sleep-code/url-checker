@@ -1,6 +1,6 @@
 # URL Checker 
 
-This Python3 script that will intake a text list of URLs and check their response status.
+This simple Python3 script that will intake a text list of URLs and check their response status.
 
 ## Prerequisites
 
