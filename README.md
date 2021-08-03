@@ -1,4 +1,5 @@
-# url-checker
+# URL Checker 
+
 This python script that will take a text list of URLs and check their response status.
 
 
